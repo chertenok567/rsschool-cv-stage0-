@@ -11,4 +11,13 @@
   *{
       box-sizing: border-box;
   }
+  .header{
+      border: 1px solid red;
+  }
+  .main{
+      border: 1px solid green
+  }
+  .footer{
+      border: 1px solid blue
+  }
 
