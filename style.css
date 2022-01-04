@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Roboto;
+     src: url("assets/fonts/Roboto.ttf");
+   }
+
+<style>
+  body {
+    font-family: font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto';
+  }
+</style>
