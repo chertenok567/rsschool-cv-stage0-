@@ -37,3 +37,27 @@
       max-width: 1440;
       margin: 0 auto;
   }
+  .nav-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+  }
+  html{
+      scroll-behavior: smooth;
+  }
+  .nav-link {
+      padding: 0 10px;
+      line-height: 20px;
+      color:black;
+      transition: 3s;
+      cursor: pointer;
+  }
+  .section-item a {
+      color: orangered;
+      text-decoration: none;
+      transition: color 0.5s;
+  }
+  .section-item a:hover {
+      color: #4d2323;
+  }
