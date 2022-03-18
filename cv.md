@@ -16,7 +16,6 @@
 *####_GitHub_: chertenok567
 
 
-
 ********
 
 ###About me
